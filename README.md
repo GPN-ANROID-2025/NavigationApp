@@ -17,6 +17,10 @@ This repository provides a guide to understanding key concepts in Android develo
      - `onPause()`
      - `onStop()`
      - `onDestroy()`
+    
+![Activity Lifecycle Image](https://developer.android.com/guide/components/images/activity_lifecycle.png)
+
+
 
 ### 3. **Navigation**
    - Android provides a navigation framework that helps manage app flow, including switching between activities and passing data between them.
