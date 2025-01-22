@@ -1,4 +1,4 @@
-# Android Activity and Navigation Guide
+# Day 5 : Android Activity and Navigation Guide
 
 This repository provides a guide to understanding key concepts in Android development, focusing on the Activity, Activity Lifecycle, Navigation, and Intents. These are fundamental building blocks of Android app development, and mastering them is essential for building robust and user-friendly applications.
 
